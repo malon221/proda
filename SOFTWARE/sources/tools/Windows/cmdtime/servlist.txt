@@ -1,0 +1,718 @@
+
+    List of timeservers with SNTP support
+
+    To use the server with cmdtime specify its name in command line:
+
+    cmdtime.exe bernina.ethz.ch biofiz.mf.uni-lj.si chime.utoronto.ca
+
+
+augean.eleceng.adelaide.edu.au 
+    Location: University of Adelaide, South Australia 
+    Synchronization: NTP secondary (stratum 2), Sun-4/75/Unix 
+    Service area: AARNet 
+    Access policy: open access, please send a message to notify 
+    Contact: systems@eleceng.adelaide.edu.au 
+
+bernina.ethz.ch
+    Location: Swiss Fed. Inst. of Technology, CH 8092 Zurich, Switzerland 
+    Geographic Coordinates: 47:23N, 8:32E 
+    Synchronization: NTP secondary (stratum 2), Sun SS10-51/SunOS4 
+    Service Area: Switzerland/Europe 
+    Access Policy: open access 
+    Contact: Adam Feigin (time@iis.ee.ethz.ch) 
+
+biofiz.mf.uni-lj.si 
+    Location: Institute of Biophysics, University of Ljubljana, Slovenia 
+    Geographic Coordinates: 46:03:09N, 14:30:40E 
+    Synchronization: NTP V3 secondary (stratum 2), HP/Unix 
+    Service Area: Slovenia/Europe 
+    Access Policy: open access, please send a message to notify 
+    Contact: Primoz Peterlin (time@biofiz.mf.uni-lj.si) 
+
+black-ice.cc.vt.edu
+    Location: Virginia Tech Computing Center, Blacksburg, VA, USA 
+    Synchronization: NTP V3 secondary (Stratum 2), RS/6000-220 
+    Service Area: southeastern US, anyplace netwise close to ANSNet Greensboro 
+    Access Policy: open access 
+    Contact: valdis@black-ice.cc.vt.edu or Valdis.Kletnieks@vt.edu 
+    Note: ntp-2.vt.edu is a CNAME for black-ice.cc.vt.edu 
+
+ 
+chime.utoronto.ca 
+    Location: University of Toronto, Toronto, Ontario, CANADA 
+    Synchronization: NTP V3 secondary (stratum 2), Sparc 5, Solaris 2.5 
+    Service Area: Eastern Canada 
+    Access Policy: open access, send email to notify. 
+    Contact: Russell Sutherland (russell.sutherland@utoronto.ca) 
+    Note: IP addresses are subject to change; please use DNS 
+
+
+churchy.udel.edu (128.4.1.5) 
+    Location: University of Delaware, Newark, DE 
+    Geographic Coordinates: 39:40:48.425N, 75:45:02.392W (GPS WGS84) 
+    Synchronization: NTP V3 secondary (stratum 2), cisco IGS 9.2 router 
+    Service Area: NSFNET, SURA region 
+    Access Policy: experimental access only; service may be withdrawn without notice 
+    Contact: Dave Mills (mills@udel.edu) 
+
+clepsydra.dec.com
+
+clock.psu.edu
+    Location: Penn State University, University Park, PA 
+    Geographic Coordinates: 40:47:58.1N, 77:51:44.8W (USGS 40077-G7-TF-024) 
+    Synchronization: NTP V3 secondary (stratum 2), Sun SPARCstation 2/Solaris 2.5.1 
+    Service Area: NSFNET, CICnet, PREPnet 
+    Access Policy: open access 
+    Contact: John Balogh (JDB@psu.edu) 
+    Note: clock.psu.edu is a CNAME for otc2.psu.edu 
+
+clock.tricity.wsu.edu (192.31.216.30) 
+    Location: Washington State University Tri-Cities, Richland, Wa 
+    Synchronization: NTP secondary (stratum 2), DS5000/Ultrix 
+    Service Area: NSFNET, NorthWestNet 
+    Access Policy: open access 
+    Contact: postmaster@beta.tricity.wsu.edu) 
+    Note: clock.tricity.wsu.edu is a CNAME for dragon.tricity.wsu.edu 
+
+ 
+
+
+constellation.ecn.uoknor.edu
+    Location: University of Oklahoma, Norman, Oklahoma, USA 
+    Synchronization: NTP secondary (stratum 2), Mac Quadra 700/A/UX 3.0 
+    Service Area: Midnet 
+    Access Policy: open access 
+    Contact: Robert Shull (rob@mailhost.ecn.uoknor.edu) 
+
+cuckoo.nevada.edu 
+    Location: University of Nevada System Computing Services, Las Vegas, NV 
+    Synchronization: NTP V3 secondary (stratum 2), DEC Alpha/Unix 
+    Service Area: NevadaNet, NSFNET, SDSC region 
+    Access Policy: open access, please send message to notify 
+    Contact: Systems Group (software@nevada.edu) 
+    Note: cuckoo.nevada.edu is a CNAME for alphabits.nevada.edu 
+
+delphi.cs.ucla.edu
+    Location: UCLA Computer Science Department, Los Angeles, CA 
+    Geographic Coordinates: 34:04:08N, 118:26:31W 
+    Synchronization: NTP secondary (stratum 2), Sun/SunOS 
+    Service Area: NSFNET, SDSC region 
+    Access Policy: open access 
+    Contact: Chinson Yi (chinson@cs.ucla.edu) 
+
+dominator.eecs.harvard.edu
+    Location: Harvard University, Cambridge, MA USA 
+    Synchronization: NTP V3 secondary (Stratum 2), DEC Alpha OSF/1 V3.2 
+    Service Area: Eastern US 
+    Access Policy: open access 
+    Contact: rtm@eecs.harvard.edu 
+
+eagle.tamu.edu
+    Location: Texas A&M University, College Station, Texas 
+    Synchronization: NTP v3 secondary (stratum 2), DEC Alpha/Unix 
+    Service Area: NSFNET, SESQUI region, THEnet, Texas 
+    Access Policy: open access 
+    Contact: privitt@eagle.tamu.edu (Carl Privitt) 
+
+everest.cclabs.missouri.edu 
+    Location: University of Missouri-Columbia, Columbia, MO, USA 
+    Synchronization: NTP secondary (stratum 2), SGI Indigo R4000/IRIX 5.3 
+    Service Area: MOREnet 
+    Access Policy: open access, please send a message to notify 
+    Contact: Paul Walmsley (ccshag@cclabs.missouri.edu) or timemaster@cclabs.missouri.edu 
+
+fartein.ifi.uio.no
+    Location: University of Oslo, Norway 
+    Geographic Coordinates: 59:56:32N, 10:43:22E 
+    Synchronization: NTP secondary (stratum 2), VAXstation/Ultrix 
+    Service Area: NORDUnet 
+    Access Policy: open access 
+    Contact: Anders Ellefsrud, Ole Bjorn Hessen (timekeeper@ifi.uio.no) 
+    Note: Other stratum 2 servers in the Oslo area available on request 
+
+fuzz.psc.edu 
+    Location: Pittsburgh Supercomputing Center, Pittsburgh, PA 
+    Synchronization: NTP V3 secondary (stratum 2), DEC5000/200 
+    Service area: NSFNET, PSC region 
+    Access policy: open access, but please send a message to notify. 
+    Contact: noc@psc.edu 
+
+
+gazette.bcm.tmc.edu
+    Location: Baylor College of Medicine, Houston, Tx 
+    Synchronization: NTP secondary (stratum 2), Solbourne-OS/MP 4.0C 
+    Service Area: NSFNET, SESQUI region 
+    Access Policy: open access 
+    Contact: Postmaster (postmaster@bcm.tmc.edu) 
+
+gilbreth.ecn.purdue.edu 
+    Location: Purdue University Engineering Computer Network, West Lafayette, IN 
+    Synchronization: NTP V3 secondary (stratum 2), Sun SPARCserver 1000/Solaris 2.3 
+    Service area: NSFNET, CICNET area 
+    Access policy: open access 
+    Contact: Mike Moya (moyman@ecn.purdue.edu) 
+
+harbor.ecn.purdue.edu
+    Location: Purdue University Engineering Computer Network, West Lafayette, IN 
+    Synchronization: NTP V3 secondary (stratum 2), Sun-4/75+/Solaris 2.3 
+    Service area: NSFNET, CICNET area 
+    Access policy: open access 
+    Contact: Mike Moya (moyman@ecn.purdue.edu) 
+
+info.cyf-kr.edu.pl 
+    Location: Academic Computer Centre, CYFRONET, Krakow, Poland 
+    Synchronization: NTP V3 secondary (stratum 2), HP/Unix 
+    Service Area: Poland/Europe 
+    Access policy: open access, please send a message to notify 
+    Contact: Jerzy.Pawlus@cyf-kr.edu.pl 
+
+hmljhp.rzs-hm.si 
+    Location: Hydrometeorological Institute of Slovenia, Ljubljana, Slovenia 
+    Geographic Coordinates: 46:03:09N, 14:30:40E 
+    Synchronization: NTP V3 secondary (stratum 2), HP/Unix 
+    Service Area: SLovenia/Europe 
+    Access Policy: open access, please send a message to notify 
+    Contact: Metod Kozelj (metod.kozelj@rzs-hm.si) 
+
+molecule.ecn.purdue.edu
+    Location: Purdue University Engineering Computer Network, West Lafayette, IN 
+    Synchronization: NTP V3 secondary (stratum 2), Sun SPARCserver 1000/Solaris 2.3 
+    Service area: NSFNET, CICNET area 
+    Access policy: open access 
+    Contact: Mike Moya (moyman@ecn.purdue.edu) 
+
+finch.cc.ukans.edu
+    Location: Kansas University Computer Center, Lawrence, Kansas 66047, USA 
+    Geographic Coordinates: 39:56N, 95:14W 
+    Synchronization: NTP secondary (stratum 2), DEC 3000-500 Digital Unix 
+    Service Area: Midnet, NSFnet 
+    Access policy: open access 
+    Contact: Craig Paul (paul@kuhub.cc.ukans.edu) 
+
+kuhub.cc.ukans.edu
+    Location: Kansas University Computer Center, Lawrence, Kansas 66047, USA 
+    Geographic Coordinates: 39:56N, 95:14W 
+    Synchronization: NTP secondary (stratum 2), DEC 7000-610 OpenVMS Alpha 
+    Service Area: Midnet, NSFnet 
+    Access policy: open access 
+    Contact: Craig Paul (paul@kuhub.cc.ukans.edu) 
+
+libra.rice.edu
+    Location: Rice University, Houston, TX 
+    Synchronization: NTP secondary (stratum 2), Fuzzball 
+    Service Area: NSFNET, SESQUI region 
+    Access Policy: open access 
+    Contact: Farrell Gerbode (gerbode@rice.edu) 
+    Note: this server has not been heard from for many months [dlm] 
+
+louie.udel.edu
+    Location: University of Delaware, Newark, DE 
+    Synchronization: NTP V3 secondary (stratum 2), Sun SPARC10/SunOS5.1.1 
+    Service Area: NSFNET, SURA region 
+    Access Policy: open access 
+    Contact: Dave Mills (mills@udel.edu) 
+
+ns.scruz.net 
+    Location: scruz-net, inc. Santa Cruz, CA USA 
+    Synchronization: NTP V3 secondary (stratum 2), BSD on Intel 
+    Service area: Western USA (MAE-West attached) 
+    Access policy: open access (scruz-net customers use both ns.scruz.net and nic.scruz.net, others please use one or the
+    other, not both... please drop us a note if you're using the server so we can keep you on our status list) 
+    Contact: Matthew Kaufman (matthew@scruz.net) 
+
+ns.nts.umn.edu 
+    Location: Minneapolis, MN 
+    Synchronization: NTP secondary (stratum 2), Sun/SunOS 4.1.3 
+    Service Area: CICNET region 
+    Access Policy: open access, please send a message to notify. 
+    Networking & Telecommunications Services (nts@nts.umn.edu) 
+    Note: select one of ns.nts.umn.edu or nss.nts.umn.edu to equalize load 
+
+nss.nts.umn.edu 
+    Location: St Paul, MN 
+    Synchronization: NTP secondary (stratum 2), Sun/SunOS 4.1.3 
+    Service Area: CICNET region 
+    Access Policy: open access, please send a message to notify. 
+    Networking & Telecommunications Services (nts@nts.umn.edu) 
+    Note: select one of ns.nts.umn.edu or nss.nts.umn.edu to equalize load 
+
+ntp.adelaide.edu.au
+    Location: University of Adelaide, South Australia 
+    Synchronization: NTP V3 secondary (stratum 2), DECsystem 5000/25 Unix 
+    Service Area: AARNet 
+    Access Policy: open access 
+    Contact: Danielle Hopkins (dani@itd.adelaide.edu.au) 
+
+ntp.cox.smu.edu 
+    Location: Cox School of Business, Southern Methodist University, Dallas, TX 
+    Synchronization: NTP V3 secondary (stratum 2), DEC 3000/300LX AXP DEC OSF/1 AXP 
+    Service Area: NSFNET, SESQUI region 
+    Access Policy: open access 
+    Contact: Allen Gwinn (allen@mail.cox.smu.edu) 
+    Note: Please send e-mail letting us know you will be using ntp.cox.smu.edu. ntp.cox.smu.edu is a CNAME for
+    nyse.cox.smu.edu. 
+
+ntp.cs.strath.ac.uk
+    Location: Dept. Computer Science, Strathclyde University, Glasgow, Scotland. 
+    Geographic Coordinates: 04:14W, 55:52N 
+    Synchronization: NTP V3 secondary Sun/Unix 
+    Service Area: UK/Europe/any 
+    Access Policy: open access 
+    Contact: Ian Gordon (ntp@cs.strath.ac.uk) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp.css.gov
+    Location: Center for Seismic Studies, Arlington, VA 
+    Geographic Coordinates: 38:53:50N, 77:04:34W 
+    Synchronization: NTP V3 secondary (stratum 2), Sun-Sparc-5, Solaris 5.5.1 
+    Service Area: NSFNET, SURA region 
+    Access Policy: open access 
+    Contact: Dan Brown (dbrown@cmr.gov) 
+
+ntp.ctr.columbia.edu
+    Location: Columbia University Center for Telecommunications Research; New York City, NY 
+    Synchronization: NTP secondary (stratum 2), Sun/Unix 
+    Service Area: Sprintlink/NYSERnet 
+    Access Policy: open access, authenticated NTP (DES/MD5) available 
+    Contact: Seth Robertson (timekeeper@ctr.columbia.edu) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp.lth.se 
+    Location: Lund Institute of Technology, Lund, Sweden 
+    Synchronization: NTP V3 secondary (stratum 2), Sun/Solaris 
+    Service Area: Sweden, NORDUnet 
+    Access Policy: open access, send email to notify. Please limit access to one or two hosts per site (large sites should set
+    up their own ntp server) 
+    Contact: timemaster@lth.se 
+
+ntp.maths.tcd.ie 
+    Location: School of Mathematics, Trinity College, Dublin, Ireland. 
+    Synchronization: NTPV3 secondary (stratum 2), Intel, FreeBSD 2.2 
+    Service Area: Ireland, UK 
+    Access Policy: open access, please send a message to notify. 
+    Contact: time@maths.tcd.ie 
+    Note: ntp.cs.tcd.ie, ntp.maths.tcd.ie and ntp.tcd.ie peer together over local area net. It is normally sufficient just to pick
+    one machine to peer with. 
+
+ntp.saard.net
+    Location: The University of Adelaide, Adelaide, South AUSTRALIA 
+    Synchronization: NTP secondary (stratum 2), DEC 3000/300L OSF/1 
+    Service Area: AARNet 
+    Access Policy: open access 
+    Contact: Danielle Hopkins (dani@itd.adelaide.edu.au) 
+
+ntp.ucsd.edu 
+    Location: UCSD Computer Science & Engineering Department, San Diego, CA 
+    Synchronization: NTP secondary (stratum 2), DEC AlphaStation 250 4/266, Digital UNIX 
+    Service Area: CERFNET; NSFNET, SDSC region 
+    Access Policy: open access, please send a message to notify. 
+    Contact: timekeeper@cs.ucsd.edu 
+
+ntp.univ-lyon1.fr 
+    Location: CISM, Lyon, France 
+    Synchronization: NTP V3 secondary (stratum 2), Sun SS10 
+    Service Area: France, Switzerland, Italy, Europe 
+    Access Policy: open access 
+    Contact: ntp-adm@univ-lyon1.fr 
+    Note: consult DNS to get host address, ntp is an alias. 
+    Note: we would appreciate getting a little note if you make regular use of this server, so that we can put you on our NTP
+    mailing-list. 
+
+ntp0.cornell.edu
+    Location: Cornell University, Ithaca, NY 
+    Synchronization: NTP secondary (stratum 2), Sun/Unix 
+    Service Area: NSFNET, NYSER region 
+    Access Policy: open access 
+    Contact: Donald Redick (dredick@nmc.cit.cornell.edu) 
+
+ntp1.sura.net 
+    Location: SURAnet, College Park, MD 
+    Synchronization: NTP V3 secondary (stratum 2), Sun Sparc/SunOS 
+    Service Area: SURAnet region 
+    Access Policy: open access; please send a message to notify. 
+    Contact: timekeeper@sura.net 
+
+ntp2.sura.net 
+    Location: SURAnet, College Park, MD 
+    Synchronization: NTP V3 secondary (stratum 2), DEC DECstation/Ultrix 
+    Service Area: SURAnet region 
+    Access Policy: open access; please send a message to notify. 
+    Contact: timekeeper@sura.net 
+
+ntp1.cs.wisc.edu
+    Location: Computer Science Department, University of Wisconsin-Madison 
+    Geographic Coordinates: 89:24:30W, 43:08:00N 
+    Synchronization: NTP V3 secondary Alpha/OSF 3.2 
+    Service Area: US/any 
+    Access Policy: open access 
+    Contact: David Thompson ( ntp-admin@cs.wisc.edu) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp2.cs.wisc.edu
+    Location: Computer Science Department, University of Wisconsin-Madison 
+    Geographic Coordinates: 89:24:30W, 43:08:00N 
+    Synchronization: NTP V3 secondary Alpha/OSF 3.2 
+    Service Area: US/any 
+    Access Policy: open access 
+    Contact: David Thompson ( ntp-admin@cs.wisc.edu) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp3.cs.wisc.edu
+    Location: Computer Science Department, University of Wisconsin-Madison 
+    Geographic Coordinates: 89:24:30W, 43:08:00N 
+    Synchronization: NTP V3 secondary Alpha/OSF 3.2 
+    Service Area: US/any 
+    Access Policy: open access 
+    Contact: David Thompson ( ntp-admin@cs.wisc.edu) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp5.tamu.edu
+    Location: Texas A&M University, College Station, TX 
+    Synchronization: NTP secondary (stratum 2, ver. 3), SPARCstation 10/Solaris 1.x 
+    Service area: NSFNET, SESQUI region, THEnet, TAMUSDSN 
+    Access policy: open access 
+    Contact: NTP Administrator (ntp@tamu.edu) 
+
+ntp-1.ece.cmu.edu 
+    Location: Carnegie Mellon Electrical and Computer Engineering, Pittsburgh, PA 
+    Geographic Coordinates: 40:26N, 79:57W 
+    Synchronization: NTP V3 secondary (stratum 2), IBM 40P/AIX 4.1.5 
+    Service Area: PREPNET, PSC region 
+    Access Policy: open access, please notify 
+    Contact: ECE Facilities (gripe@ece.cmu.edu) 
+    Note: Name is an alias for use by NTP. 
+
+ntp-2.ece.cmu.edu 
+    Location: Carnegie Mellon Electrical and Computer Engineering, Pittsburgh, PA 
+    Geographic Coordinates: 40:26N, 79:57W 
+    Synchronization: NTP V3 secondary (stratum 2), IBM 40P/AIX 4.1.5 
+    Service Area: PREPNET, PSC region 
+    Access Policy: open access, please notify 
+    Contact: ECE Facilities (gripe@ece.cmu.edu) 
+    Note: Name is an alias for use by NTP. 
+
+ntp-1.mcs.anl.gov 
+    Location: Argonne National Laboratory, near Chicago, IL 
+    Synchronization: NTP secondary (stratum 2), Sun Sparcstation 1 
+    Service Area: NSF/ANSNet, CICNet, NetIllinois, ESNet, others welcome 
+    Access Policy: open access, please send a message to notify 
+    Contact: Support Staff (support@mcs.anl.gov) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp-2.mcs.anl.gov 
+    Location: Argonne National Laboratory, near Chicago, IL 
+    Synchronization: NTP secondary (stratum 2), Sun Sparcstation 2 
+    Service Area: NSF/ANSNet, CICNet, NetIllinois, ESNet, others welcome 
+    Access Policy: open access, please send a message to notify 
+    Contact: Support Staff (support@mcs.anl.gov) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ntp1.ossi.com 
+    Location: Emeryville, CA 
+    Synchronization: NTP V3 secondary (stratum 2), Sun4-330/Unix 
+    Service Area: BARRNet 
+    Access Policy: open access, please send a message to notify. 
+    Contact: Mary Seabrook (mary@ossi.com) 
+    Note: select one of ntp1.ossi.com or ntp2.ossi.com to share load 
+
+ntp2.ossi.com 
+    Location: Emeryville, CA 
+    Synchronization: NTP V3 secondary (stratum 2), Sun4-690/Unix 
+    Service Area: BARRNet 
+    Access Policy: open access, please send a message to notify. 
+    Contact: Mary Seabrook (mary@ossi.com) 
+    Note: select one of ntp1.ossi.com or ntp2.ossi.com to share load 
+
+ntp-0.cso.uiuc.edu
+    Location: University of Illinois, Urbana-Champaign, IL 
+    Synchronization: NTP secondary (stratum 2), Cisco-ASM/4 
+    Service Area: CICNET, Midwest, NCSA region 
+    Access Policy: open access 
+    Contact: Charley Kline (kline@uiuc.edu) 
+    Note: select one of (ntp-0.cso.uiuc.edu, ntp-1.cso.uiuc.edu, ntp- 2.cso.uiuc.edu) to equalize load. Use names rather than
+    IP addresses if possible. The ntp-N aliases follow wherever the service is moved to. 
+
+ntp-1.cso.uiuc.edu
+    Location: University of Illinois, Urbana-Champaign, IL 
+    Synchronization: NTP secondary (stratum 2), Cisco-ASM/4 
+    Service Area: CICNET, Midwest, NCSA region 
+    Access Policy: open access 
+    Contact: Charley Kline (kline@uiuc.edu) 
+    Note: select one of (ntp-0.cso.uiuc.edu, ntp-1.cso.uiuc.edu, ntp- 2.cso.uiuc.edu) to equalize load. Use names rather than
+    IP addresses if possible. The ntp-N aliases follow wherever the service is moved to. 
+
+ntp-2.cso.uiuc.edu
+    Location: University of Illinois, Urbana-Champaign, IL 
+    Synchronization: NTP secondary (stratum 2), Cisco-ASM/4 
+    Service Area: CICNET, Midwest, NCSA region 
+    Access Policy: open access 
+    Contact: Charley Kline (kline@uiuc.edu) 
+    Note: select one of (ntp-0.cso.uiuc.edu, ntp-1.cso.uiuc.edu, ntp- 2.cso.uiuc.edu) to equalize load. Use names rather than
+    IP addresses if possible. The ntp-N aliases follow wherever the service is moved to. 
+
+ntp2a.audiotel.com.mx 
+    Location: Audiotel office, Mexico D.F., Mexico 
+    Synchronization: NTP V3 secondary (stratum 2), NeXTstation/33 
+    Service Area: Avantel, MCINet, Mexico 
+    Access Policy: open access, but please send a message to notify. 
+    Contact: Pedro Resendiz (resendiz@audiotel.com.mx) 
+
+ntp2b.audiotel.com.mx 
+    Location: Audiotel office, Mexico D.F., Mexico 
+    Synchronization: NTP V3 secondary (stratum 2), NeXTstation/33 
+    Service Area: Avantel, MCINet, Mexico 
+    Access Policy: open access, but please send a message to notify. 
+    Contact: Pedro Resendiz (resendiz@audiotel.com.mx) 
+
+ntp2c.audiotel.com.mx 
+    Location: Audiotel office, Mexico D.F., Mexico 
+    Synchronization: NTP V3 secondary (stratum 2), NeXTstation/33 
+    Service Area: Avantel, MCINet, Mexico 
+    Access Policy: open access, but please send a message to notify. 
+    Contact: Pedro Resendiz (resendiz@audiotel.com.mx) 
+
+ntp2a.mcc.ac.uk
+    Location: University of Manchester, Manchester, England 
+    Synchronization: Sun 
+    Service Area: UK 
+    Access Policy: Open Access 
+    Contact(s): timelords@mcc.ac.uk 
+
+ntp2b.mcc.ac.uk
+    Location: University of Manchester, Manchester, England 
+    Synchronization: Sun 
+    Service Area: UK 
+    Access Policy: Open Access 
+    Contact(s): timelords@mcc.ac.uk 
+
+ntp2c.mcc.ac.uk
+    Location: University of Manchester, Manchester, England 
+    Synchronization: Sun 
+    Service Area: UK 
+    Access Policy: Open Access 
+    Contact(s): timelords@mcc.ac.uk 
+
+ntp2d.mcc.ac.uk
+    Location: University of Manchester, Manchester, England 
+    Synchronization: HP 9000/750 
+    Service Area: UK 
+    Access Policy: Open Access 
+    Contact(s): timelords@mcc.ac.uk 
+
+Rolex.PeachNet.EDU 
+    Location: PeachNet NOC, Kennesaw, GA 
+    Synchronization: NTP secondary (stratum 2), Sun Sparc/Unix 
+    Service Area: PeachNet (Georgia), SURAnet 
+    Access Policy: open access, please send a message to notify. 
+    Contact: timekeeper@peachnet.edu 
+    Note: Please use the CNAME Rolex if at all possible, the IP might change one day. 
+
+slug.ctv.es 
+    Location: Altea (Alicante/SPAIN) 
+    Synchronization: Stratum-2/i486DX2/66/Linux 
+    Service Area: Spain 
+    Access Policy: Public (glad to receive a note) 
+    Contact: Luis Colorado (luis.colorado@slug.ctv.es) 
+
+salmon.maths.tcd.ie
+    Location: Trinity College, Dublin, Ireland 
+    Synchronization: NTP secondary (stratum 2), MIPS Magnum 
+    Service Area: Ireland, UK 
+    Access Policy: open access 
+    Contact: time@maths.tcd.ie 
+    Note: salmon.maths.tcd.ie (134.226.81.11), ashe.cs.tcd.ie (134.226.32.17) and lib1.tcd.ie (134.226.1.24)peer together
+    over local area net, and one or more usually run at stratum 2. It is normally sufficient just to pick one machine to peer
+    with. 
+
+
+sundial.columbia.edu
+    Location: Morningside Campus, Columbia University, New York, NY 
+    Synchronization: NTP V3 secondary (stratum 2), Sun Sparc10 model 40 
+    Service Area: NYSERnet 
+    Access Policy: open access 
+    Contact: timekeeper@columbia.edu 
+
+tick.anice.net.ar 
+    Location: AD Communications, Buenos Aires, Argentina 
+    Synchronization: NTP V3 secondary (stratum 2), Cisco IGS 11.1 
+    Service Area: Argentina 
+    Access Policy: open access, please send a message to notify 
+    Contact: Pablo J. Fritz ( timekeeper@anice.net.ar) 
+    Note: tick.anice.net.ar is a CNAME for cisco.ad.net.ar 
+
+tick.cs.unlv.edu
+    Location: UNLV College of Engineering, Las Vegas, NV 
+    Synchronization: NTP V3 secondary (stratum 2), Mips/Unix 
+    Service Area: Sprintnet 
+    Access Policy: open access 
+    Contact: Greg Wohletz <greg@cs.unlv.edu> 
+    Note: select one of tick.cs.unlv.edu or tock.cs.unlv.edu at random to equalize load 
+
+tick.koalas.com
+    Location: Koala Computers, Coos Bay, OR 
+    Geographic Coordinates: 43.36N 124.19W 
+    Synchronization: NTP V3 Secondary (Stratum 2), PC/Linux 
+    Service Area: Northwestern U.S. 
+    Access Policy: open access 
+    Contact: ( webmaster@koalas.com ) 
+
+tick.utoronto.ca 
+    Location: University of Toronto, Toronto, Ontario, CANADA 
+    Synchronization: NTP V3 secondary (stratum 2), Cisco 4700, IOS 11.1 
+    Service Area: Eastern Canada 
+    Access Policy: open access, send email to notify. 
+    Contact: Russell Sutherland (russell.sutherland@utoronto.ca) 
+    Note: IP addresses are subject to change; please use DNS 
+
+ticktock.wang.com 
+    Location: Wang Labs, Billerica MA, USA 
+    Synchronization: NTP V3 secondary (stratum 2), Pentium/BSDI 2.0 
+    Service Area: AlterNet, New England 
+    Access Policy: Open access, please send mail to notify 
+    Contact: net-services@wang.com 
+    Note: ticktock is a CNAME 
+
+time.ijs.si 
+    Location: J. Stefan Institute, Ljubljana, Slovenia 
+    Geographic Coordinates: 46:02:35N, 14:29:17E (WGS84) 
+    Synchronization: NTP V4 secondary (stratum 2), DEC Alpha / Digital Unix 
+    Service Area: Slovenia/Europe 
+    Access Policy: open access, glad to receive a note 
+    Contact: Mark Martinec (timekeeper@ijs.si) 
+    Note: IP address subject to change; better use DNS 
+
+time.nrc.ca
+    Location: National Research Council of Canada, Ottawa, Ontario, Canada 
+    Geographic Coordinates: 45:27N, 75:37W 
+    Synchronization: NTP V3 secondary (stratum 2), HP 9000/HP-UX 
+    Service Area: Canada 
+    Access Policy: open access 
+    Contact: time@nrc.ca 
+
+time.sinectis.com.ar 
+    Location: Sinectis S.A., Buenos Aires (Argentina) 
+    Geographic Coordinates: 3432'S, 5820'W 
+    Service Area: Argentina 
+    Synchronization: NTP secondary (stratum 2) 
+    Access Policy: open access, please send a message to notify. 
+    Contact: Pablo Cingolani, Levan Djaparidze (timekeeper@sinectis.com.ar) 
+    Note: time is an alias and the IP address may change; please use DNS. 
+
+time.software.net 
+    Special note: IP address available only from POC 
+    Location: CyberSource Corporation, San Jose, Ca, USA 
+    Synchronization: NTP V3 secondary (stratum 2), PC Linux 
+    Service Area: anybody less than 100ms rtt from us. 
+    Access policy: open access 
+    Contact: jpp@software.net 
+    Note: time.software.net is a CNAME the underlying machine and IP address may move soon so use DNS. John Pettitt,
+    jpp@software.net EVP, CyberSource Corporation, 408 556 9300 x 6013 PGP Key available at:
+    http://www-swiss.ai.mit.edu/htbin/pks-extract-key.pl?op=get&search=0xB7AA3705 
+
+timelord.uregina.ca
+    Location: University of Regina, Regina, Saskatchewan, Canada 
+    Geographic Coordinates: 50:25N , 104:35:20 W 
+    Synchronization: NTP V3 secondary (stratum 2), IBM RS6000/AIX 
+    Service Area: SASK#net, CA net, Canada 
+    Access Policy: open access 
+    Contact: Mark Haidl (timekeeper@uregina.ca) 
+    Note: please limit to one or two hosts per site. 
+
+timeserver.cs.umb.edu
+    Location: University of Massachusetts, Boston, MA 
+    Synchronization: NTP V3 secondary (stratum 2), DEC/Ultrix 
+    Service Area: NEARNET, (and anyone else who would like it) 
+    Access Policy: open access 
+    Primary Contact: John Rouillard (rouilj@cs.umb.edu) 
+    Secondary Contact: Rick Martin (rickm@cs.umb.edu) 
+
+timex.cs.columbia.edu
+    Location: Columbia University Computer Science Department, New York City, NY 
+    Synchronization: NTP secondary (stratum 2), Sun/Unix 
+    Service Area: PSINET; NSFNET, NYSER region 
+    Access Policy: open access, authenticated NTP (DES/MD5) available 
+    Contact: James Tanis (timekeeper@cs.columbia.edu) 
+    Note: IP addresses are subject to change; please use DNS 
+
+Timex.PeachNet.EDU 
+    Location: PeachNet NOC, Kennesaw, GA 
+    Synchronization: NTP secondary (stratum 2), Sun Sparc/Unix 
+    Service Area: PeachNet (Georgia), SURAnet 
+    Access Policy: open access, please send a message to notify. 
+    Contact: timekeeper@peachnet.edu 
+    Note: Please use the CNAME Timex if at all possible, the IP might change one day. 
+
+tmc.edu
+    Location: Baylor College of Medicine, Houston, Tx 
+    Synchronization: NTP secondary (stratum 2), Sun/SunOS 4.1 
+    Service Area: NSFNET, SESQUI region 
+    Access Policy: open access 
+    Contact: Stan Barber (sob@tmc.edu) 
+
+tock.anice.net.ar 
+    Location: Anice NET, Buenos Aires, Argentina 
+    Synchronization: NTP V3 secondary (stratum 2), Cisco IGS 11.2 
+    Service Area: Argentina 
+    Access Policy: open access, please send a message to notify 
+    Contact: Pablo J. Fritz ( timekeeper@anice.net.ar) 
+    Note: tock.anice.net.ar is a CNAME for router.anice.net.ar 
+
+tock.cs.unlv.edu
+    Location: UNLV College of Engineering, Las Vegas, NV 
+    Synchronization: NTP V3 secondary (stratum 2), Mips/Unix 
+    Service Area: Sprintnet 
+    Access Policy: open access 
+    Contact: Greg Wohletz <greg@cs.unlv.edu> 
+    Note: select one of tick.cs.unlv.edu or tock.cs.unlv.edu at random to equalize load 
+
+tock.utoronto.ca 
+    Location: University of Toronto, Toronto, Ontario, CANADA 
+    Synchronization: NTP V3 secondary (stratum 2), Sparc 5, Solaris 2.5 
+    Service Area: Eastern Canada 
+    Access Policy: open access, send email to notify. 
+    Contact: Russell Sutherland (russell.sutherland@utoronto.ca) 
+    Note: IP addresses are subject to change; please use DNS 
+
+
+vtserf.cc.vt.edu
+    Location: Virginia Tech Computing Center, Blacksburg, VA, USA 
+    Synchronization: NTP V 3 secondary (Stratum 2), DEC 5810/ultrix 
+    Service Area: southeastern US, anyplace netwise close to ANSNet Greensboro 
+    Access Policy: open access 
+    Contact: valdis@black-ice.cc.vt.edu or Valdis.Kletnieks@vt.edu 
+    Note: ntp-1.vt.edu is a CNAME for vtserf.cc.vt.edu 
+
+wuarchive.wustl.edu
+    Location: Washington University, St. Louis, Missouri, USA 
+    Synchronization: NTP secondary (stratum 2), DECstation 5000/Ultrix 
+    Service Area: Midnet 
+    Access Policy: open access 
+    Contact: Chris Myers (chris@wupost.wustl.edu) 
+
+www1.cmc.ec.gc.ca 
+    Location: Canadian Meteorological Centre, Dorval, Qu&eacutebec, Canada 
+    Synchronization: NTP V3 secondary SGI/Unix 
+    Service Area: Eastern Canada 
+    Access Policy: open access 
+    Contact: Peter Silva ( ntp-admin@cmc.ec.gc.ca) 
+
+www2.cmc.ec.gc.ca 
+    Location: Canadian Meteorological Centre, Dorval, Qu&eacutebec, Canada 
+    Synchronization: NTP V3 secondary SGI/Unix 
+    Service Area: Eastern Canada 
+    Access Policy: open access 
+    Contact: Peter Silva ( ntp-admin@cmc.ec.gc.ca) 
+
+xfiles.esa.lanl.gov
+    Location: Los Alamos National Laboratory - Los Alamos, NM 
+    Synchronization: NTP secondary (stratum 2), Alpha 4/233 VMS 
+    Service Area: ESNET, TECHNET area 
+    Access Policy: open access 
+    Contact: Jim A. Whitfill whitfill@lanl.gov 
+
+xfiles-jr.esa.lanl.gov
+    Location: Los Alamos National Laboratory, Los Alamos, NM 
+    Synchronization: NTP secondary (stratum 2), VAXStation 4000-60 VMS+Multinet 
+    Service Area: ESNET, TECHNET area 
+    Access Policy: open access 
+    Contact: Jim A. Whitfill whitfill@lanl.gov 
