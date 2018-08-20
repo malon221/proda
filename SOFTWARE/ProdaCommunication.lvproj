@@ -170,11 +170,8 @@
 			<Item Name="Sequence.Counters.ctl" Type="VI" URL="../sources/Sequence/Sequence.Counters.ctl"/>
 			<Item Name="Sequence.Data.ctl" Type="VI" URL="../sources/Sequence/Sequence.Data.ctl"/>
 			<Item Name="Sequence.MainMode.ctl" Type="VI" URL="../sources/Sequence/Sequence.MainMode.ctl"/>
-			<Item Name="Sequence.PlateDetailsGet.vi" Type="VI" URL="../sources/Sequence/Sequence.PlateDetailsGet.vi"/>
 			<Item Name="Sequence.PlateType.ctl" Type="VI" URL="../sources/Sequence/Sequence.PlateType.ctl"/>
 			<Item Name="Sequence.Prod.StatusData.ctl" Type="VI" URL="../sources/Sequence/Sequence.Prod.StatusData.ctl"/>
-			<Item Name="Sequence.Prod.StatusData.UpdateLabel.ctl" Type="VI" URL="../sources/Sequence/Sequence.Prod.StatusData.UpdateLabel.ctl"/>
-			<Item Name="Sequence.SerialsFglb.vi" Type="VI" URL="../sources/Sequence/Sequence.SerialsFglb.vi"/>
 			<Item Name="Sequence.Slot.StatusData.ctl" Type="VI" URL="../sources/Sequence/Sequence.Slot.StatusData.ctl"/>
 			<Item Name="Sequence.State.ctl" Type="VI" URL="../sources/Sequence/Sequence.State.ctl"/>
 			<Item Name="Sequence.Step.Status.ctl" Type="VI" URL="../sources/Sequence/Sequence.Step.Status.ctl"/>
@@ -189,7 +186,6 @@
 			</Item>
 			<Item Name="Station.Changeover.State.vi" Type="VI" URL="../sources/Station/Station.Changeover.State.vi"/>
 			<Item Name="Station.Plate.Properties.ctl" Type="VI" URL="../sources/Station/Station.Plate.Properties.ctl"/>
-			<Item Name="StatisticsGui-NewFile.vi" Type="VI" URL="../sources/Gui/StatisticsGui-NewFile.vi"/>
 			<Item Name="StatisticsGui.TimeSpan.ctl" Type="VI" URL="../sources/Gui/StatisticsGui.TimeSpan.ctl"/>
 			<Item Name="user32.dll" Type="Document" URL="user32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
