@@ -28,7 +28,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 			<Property Name="NI.SortType" Type="Int">0</Property>
 		</Item>
-		<Item Name="Example.vi" Type="VI" URL="../sources/Database/Example.vi"/>
+		<Item Name="GenerateMeasurementFiles.vi" Type="VI" URL="../sources/GenerateMeasurementFiles.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
